@@ -16,7 +16,7 @@ $ whoami
 > Now focusing on TypeScript and Rust.
 ```
 
-| What I use |
+| Tech Stack |
 | :------------ |
 
 
