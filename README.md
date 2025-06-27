@@ -1,8 +1,13 @@
+<div>
+  <img src="https://github.com/suisanka/suisanka/blob/main/banner.jpg">
+</div>
+
 ```bash
 $ whoami
 > Hi there. 水化です.
 > Student (Grade 12), entrepreneur and idealist.
 > A creative developer, crazy about opensources and modern web tech.
+> Now focusing on TypeScript and Rust.
 ```
 
 | What I use |
