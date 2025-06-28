@@ -4,7 +4,7 @@
   </a>
 </div>
 <h3 align="center">
-  「<strong><samp> <strong>じゃ…… 一生 バンドしてくれる？</strong> </samp></strong>」
+  「<strong><samp> <strong>じゃ…… 一生、バンドしてくれる？</strong> </samp></strong>」
 </h3>
 <br />
 
