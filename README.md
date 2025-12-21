@@ -4,12 +4,13 @@
   </a>
 </div>
 <h3 align="center">
-  「<strong><samp> <strong>じゃ…… 一生、バンドしてくれる？</strong> </samp></strong>」
+  「<strong><samp> <strong>じゃ... 一生、バンドしてくれる？</strong> </samp></strong>」
 </h3>
 <br />
 
 ```bash
 $ whoami
+
 > Hi there. 水化です.
 > Student (Grade 12), entrepreneur and idealist.
 > A creative developer, crazy about opensources and modern web tech.
