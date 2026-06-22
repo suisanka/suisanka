@@ -13,7 +13,7 @@ $ whoami
 
 > Hi there. 水化です.
 > Student (Grade 12), entrepreneur and idealist.
-> A creative developer, crazy about opensources and modern web tech.
+> A creative developer, crazy about opensources, AI and modern Web tech.
 > Now focusing on TypeScript and Rust.
 ```
 
